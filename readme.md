@@ -15,10 +15,10 @@ you may stop and score after your first or second roll.
 
 Example:  
 
-_First Roll_: You roll all 5 dice and you decide to keep 3 of the rolls.
-_Second Roll_: You roll the other 2 dice and get 1 that you want to keep.
+_First Roll_: You roll all 5 dice and you decide to keep 3 of the rolls.  
+_Second Roll_: You roll the other 2 dice and get 1 that you want to keep.  
 _Third Roll_: You don't roll what you want so you keep the 4 and fill in a
-category on your scorecard.
+category on your scorecard.  
 
 **Simplified Scorecard**:  
 
