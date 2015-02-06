@@ -19,7 +19,8 @@ _Second Roll_: You roll the other 2 dice and get 1 that you want to keep.
 _Third Roll_: You don't roll what you want so you keep the 4 and fill in a
 category on your scorecard.
 
-**Scorecard**:
+**Scorecard**:  
+
 |Category   |What to score  |
 |-----------|---------------|
 |Ones       |Total of ones  |
