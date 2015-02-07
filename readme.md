@@ -58,7 +58,8 @@ a number or zero.
 .  Players are able to choose which category they want to use for a particular
 turn (end of the 3 rolls).  Example: after my 3 rolls lets say I got [1,1,4,1,5] I should be able to choose
 whether I want that roll to count for my `Ones` or `Chance`.  
-7.  Once a player fills all categories the game ends.  
+7.  Once a player fills all categories the game ends and displays the total
+score to the player.  
 
 
 #### Extended Requirements:
@@ -69,4 +70,5 @@ whether I want that roll to count for my `Ones` or `Chance`.
 5.  Include the rest of the scorecard from the real game: 3 of a kind, 4 of a
 kind, small straight, and large straight.
 6.  Include bonus points from the real game to determine winner.
+7.  Make it so the player can check his/her scoreboard in the middle of a turn.
 
